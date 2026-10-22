@@ -1,5 +1,5 @@
 # gitdemo
 This is my first GitHub Repository.
 <br>
-Author - Himanshu Sisodiya
+Author - Himanshu Prashant Sisodiya
 
